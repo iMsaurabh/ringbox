@@ -1,0 +1,27 @@
+.ControlGroup {
+	padding: 5% 50px 5% 50px;
+	margin: 30px 10px 30px 10px;
+	border-radius: 10px;
+}
+
+.SwitchContainer {
+	width: 100%;
+	margin: 10px;
+}
+
+.ToggleSwitch {
+	width: 50%;
+	height: 20px;
+}
+
+.ToggleButton {
+	width: 50%;
+	height: 100%;
+}
+
+.MusicDisplay {
+	width: 150px;
+	height: 70px;
+	margin: 20px;
+	padding: 20px;
+}
